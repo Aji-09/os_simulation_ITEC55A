@@ -11,7 +11,7 @@ export function Header({ activeTab }: { activeTab: string }) {
         <div><img src ="/logo.png" height = "50px" width ="50px"></img></div>
         <div className="header-titles">
           <h1>Operating System Simulation</h1>
-          <span className="course-code">ITEC55A • Process & Thread Concurrency Simulator</span>
+          <span className="course-code">ITEC55A Final Project - FCFS, Round Robin Simulation</span>
         </div>
       </div>
 
